@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="PUT YOUR API KEY HERE")
 
 print("AI Calculator")
 print("Ask me any math question. Type 'quit' to exit.")
