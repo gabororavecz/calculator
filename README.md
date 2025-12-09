@@ -7,4 +7,5 @@ Calculator build with python
 Open your terminal and run:
 
 ollama pull llama3
+
 ollama run llama3
